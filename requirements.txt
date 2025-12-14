@@ -1,5 +1,4 @@
-flask
-pycryptodome
 aiohttp
 protobuf
-requests
+pycryptodome
+urllib3
