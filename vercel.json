@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/*.py": {
+      "runtime": "python3.10"
+    }
+  },
+  "routes": [
+    { "src": "/like", "dest": "/api/like.py" }
+  ]
+}
